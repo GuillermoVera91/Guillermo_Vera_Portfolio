@@ -25,8 +25,9 @@ Manejo un stack variado que integra los lenguajes tradicionales de mi carrera co
 
 En este espacio comparto el código fuente de mis proyectos universitarios y aplicaciones prácticas. Mi objetivo siempre es aplicar buenas prácticas de ingeniería, escribiendo código modular, documentado y eficiente.
 *   [**Sistema de Gestión de Libros (C++)**](https://github.com/GuillermoVera91/Final_algortimo) - Evaluación final para la materia de Algoritmos. Implementación de estructuras de datos estáticas, interfaces por consola (CLI), programación modular y persistencia mediante archivos externos.
-*   [**Nombre de tu próximo proyecto (Java)**](AQUI_PEGAS_LA_URL) - *Breve descripción de una línea sobre qué hace y qué aplicaste.*
-*   [**Nombre de tu próximo proyecto (Haskell / Prolog)**](AQUI_PEGAS_LA_URL) - *Breve descripción de una línea sobre qué hace y qué aplicaste.*
+*   [**Sistema MP5 - Plataforma Multimedia (Java)**](https://github.com/GuillermoVera91/Proyecto_final_poo) - Proyecto final de Programación Orientada a Objetos. Simula una plataforma para gestionar consumo multimedia (series, películas) y conectar usuarios. Implementa motores de recomendación en memoria, manejo de APIs Collection (List, ArrayList), herencia y encapsulamiento riguroso.
+*   [**Truco Argentino (C++)**](https://github.com/GuillermoVera91/Truco_Tp_final) - Simulación del clásico juego de cartas argentino en consola. Implementación de reglas complejas, algoritmos de jerarquía de valores, cálculo matemático para envidos y control de estado de la partida.
+*   [**Proyecto Final - Software Developer Nivel 1 (TypeScript / Node.js)**](https://github.com/GuillermoVera91/sd-l1-final) - Trabajo integrador de la certificación de apx.school. Aplicación práctica de desarrollo backend moderno, utilizando TypeScript, Node.js, gestión de dependencias con NPM, asincronía (Promesas) y testing.
 ---
 📫 **¿Cómo contactarme?** 
 Puedes conectar conmigo en www.linkedin.com/in/guillermo-marcelino-vera-it o enviarme un mensaje directo.
